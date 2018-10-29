@@ -103,11 +103,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Dez-mK-1rL"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="4us-ki-va9"/>
+                    <tabBarItem key="tabBarItem" title="Item" id="4us-ki-va9">
+                        <color key="badgeColor" name="systemOrangeColor" catalog="System" colorSpace="catalog"/>
+                    </tabBarItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nUA-rV-ehZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="122886" y="-1861"/>
+            <point key="canvasLocation" x="0.0" y="-711"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
